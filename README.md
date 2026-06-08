@@ -23,6 +23,8 @@ An end-to-end, real-time Intrusion Detection System that combines deep learning 
    * **SQL Database:** Permanently saves system logs and malicious alerts for auditing.
      ![SQL DB](sql_1.png)
      ![SQL_DB](sql_2.png)
+     ![Email](email_notif.png)
+     ![Email](email_notifi.png)
 
 ---
 
